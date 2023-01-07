@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoTwitt---Client/static/css/main.4010e2e9.css",
+    "main.js": "/GoTwitt---Client/static/js/main.fe43cc70.js",
+    "static/js/787.f4e3372a.chunk.js": "/GoTwitt---Client/static/js/787.f4e3372a.chunk.js",
+    "static/media/error-404.png": "/GoTwitt---Client/static/media/error-404.53e577853ed676ef0890.png",
+    "static/media/logo-white.png": "/GoTwitt---Client/static/media/logo-white.c733c2cc8aa15fbb352d.png",
+    "static/media/date-birth.svg": "/GoTwitt---Client/static/media/date-birth.a0465456897beabca6b539ed335e076f.svg",
+    "static/media/camara.svg": "/GoTwitt---Client/static/media/camara.d25775caaa8291a151822bb7942f88aa.svg",
+    "static/media/location.svg": "/GoTwitt---Client/static/media/location.6b82d71cf8f9662ac7f1cd780007f99c.svg",
+    "static/media/link.svg": "/GoTwitt---Client/static/media/link.9388998624eb8da0172cc3baa0229e68.svg",
+    "static/media/close.svg": "/GoTwitt---Client/static/media/close.da5c42223be72e07b42078ba244d26c0.svg",
+    "index.html": "/GoTwitt---Client/index.html",
+    "main.4010e2e9.css.map": "/GoTwitt---Client/static/css/main.4010e2e9.css.map",
+    "main.fe43cc70.js.map": "/GoTwitt---Client/static/js/main.fe43cc70.js.map",
+    "787.f4e3372a.chunk.js.map": "/GoTwitt---Client/static/js/787.f4e3372a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4010e2e9.css",
+    "static/js/main.fe43cc70.js"
+  ]
+}
